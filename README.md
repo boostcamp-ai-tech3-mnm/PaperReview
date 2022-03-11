@@ -1,7 +1,7 @@
 # Boostcamp AI Tech 3rd MnM team: Paper Review
 ### TL;DR
 ```
-NLP 강의를 들으면서 Further Reading에 나온 내용들의 논문 스터디를 진행하고자 합니다. 
+NLP 강의를 들으면서 Further Reading에 나 논문 스터디를 진행하고자 합니다. 
 ```
 
 <br/>
