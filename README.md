@@ -42,7 +42,7 @@ NLP 강의를 들으면서 Further Reading에 나온 내용들의 논문 스터�
 
 **8주차**
 
-- [Word2Vec (NeuralPS’ 2013)](https://arxiv.org/abs/1310.4546)
+- [Distributed Representations of Words and Phrases and their Compositionality(NIPS 2013)](https://arxiv.org/abs/1310.4546)
 - [GloVe (EMNLP 2014)](https://aclanthology.org/D14-1162/)
 - [Seq2Seq (ICML 2014)](https://arxiv.org/abs/1409.3215)
 - [Effective Approaches to Attention-based Neural Machine Translation (EMNLP 2015)](https://arxiv.org/abs/1508.04025)
