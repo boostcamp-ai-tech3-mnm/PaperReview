@@ -55,7 +55,9 @@ NLP 강의를 들으면서 Further Reading에 나온 내용들의 논문 스터�
 - [Andrej Karpathy RNN 포스팅](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - [colah LSTM 포스팅](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
-
+### Multi-modal 관련 논문
+- [DALL-E: Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092)
+- [CLIP: Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
 
 <br/>
 
