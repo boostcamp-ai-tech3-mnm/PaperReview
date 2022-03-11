@@ -10,8 +10,8 @@ NLP 강의를 들으면서 Further Reading에 나온 내용들의 논문 스터�
 
 | Dates | Paper                                                                                                           | Year          | Presenter | Presentation | Code |
 |-------|-----------------------------------------------------------------------------------------------------------------|---------------|-----------|--------------|----------------|
-| 3/17  | [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781) | NeuraIPS 2013 |           |              |                |
-| 미정   | [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546)  | NIPS 2013     |           |              |                |
+| 3/17 | [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781) | NeuraIPS 2013 |           |              |                |
+| 미정  | [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546) | NIPS 2013 |           |              |                |
 
 <br/>
 
