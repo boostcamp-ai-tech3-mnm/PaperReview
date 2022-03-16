@@ -10,7 +10,7 @@ NLP 강의 Further Reading에 소개된 논문을 읽는 스터디입니다.
 
 | Dates | Paper                                                                                                           | Year          | Presenter | Presentation | Code |
 |-------|-----------------------------------------------------------------------------------------------------------------|---------------|-----------|--------------|----------------|
-| 3/17 | [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781) | NeuraIPS 2013 | 문찬국 |  |                |
+| 3/18 | [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781) | NeuraIPS 2013 | 문찬국 |  |                |
 | 미정  | [Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/abs/1310.4546) | NIPS 2013 |           |              |                |
 
 <br/>
@@ -27,9 +27,10 @@ NLP 강의 Further Reading에 소개된 논문을 읽는 스터디입니다.
 <br/>
 
 ### 스터디 룰
-* 스터디 시간 : 목요일 피어세션 시간(4-5시), 고정 스터디 시간은 나중에 다시 정하기  
+* 스터디 시간 : 금요일 피어세션 시간(4-5시), 고정 스터디 시간은 나중에 다시 정하기  
 * 스터디 분량 : 매주 1개씩 
     * 참여자 모두 논문을 읽고, 모임 전날까지 최소 질문 1개를 github issue에 올리기(+ 답변을 안다면 답변 달아주기!)
+    * 참여자 모두 각자 정리한 내용 업로드
 * 발표자 : 모임 하루 전에 랜덤 선택. 발표 자료는 자유 양식(PPT, 각자 정리한 자료 등)
     * 논문 발표 : 발표자는 발표 후 정리 내용 해당 레포 폴더를 만들어 업로드. 발표자 외 사람 중 공유하고 싶은 사람은 issues에 남기거나 file upload 에 마찬가지로 링크 추가 가능(자율)
     * 코드 설명: 해당 논문 발표자는 다음주차에 코드뷰 설명(e.g, 어떤 라이브러리로 쉽게 쓸 수 있는지 usage 설명, 알고리즘이 복잡한 경우 코드뷰로 어떻게 구현되었는지 설명 등 본인 기호에 맞게)
