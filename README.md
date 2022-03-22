@@ -8,8 +8,8 @@ NLP 강의 Further Reading에 소개된 논문을 읽는 스터디입니다.
 
 ### 리딩 리스트
 
-| 날짜 | 논문                                                                                                           | 연도 | 발표자 | 정리 자료 | 코드 |
-|-------|-----------------------------------------------------------------------------------------------------------------|---------------|-----------|--------------|----------------|
+| 날짜 | 논문 | 연도 | 발표자 | 정리 자료 | 코드 |
+|-------|-------|-------|-------|-------|-------|
 | 3/18 | [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/abs/1301.3781) | NeuraIPS 2013 | 문찬국 | [week1](https://github.com/boostcamp-ai-tech3-mnm/PaperReview/blob/main/week1/README.md)  |  [CBOW](https://github.com/boostcamp-ai-tech3-mnm/PaperReview/blob/main/week1/cbow_code.py) [Skip-gram](https://github.com/boostcamp-ai-tech3-mnm/PaperReview/blob/main/week1/skip_gram.py) |
 | 3/28 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | 2018 |           |              |                |
 
